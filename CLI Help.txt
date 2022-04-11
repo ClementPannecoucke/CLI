@@ -1,0 +1,4 @@
+help(): Renvoie chaque commandes et ce a quoi elle sert
+hello(nom): Affiche Hello et le nom rentré. Si rien n'est rentré il affiche Hello world.
+sum(nbA,nbB): Renvoie la somme des deux nombres rentrés
+cat(file): Affiche contenu du fichier rentré ou du fichier du chemin rentré
